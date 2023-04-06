@@ -1,0 +1,11 @@
+ *{
+  box-sizing: border-box;
+  margin:0;
+ }
+
+ :root {
+  --root :rgb(197 ,1,1);
+  --oBlack:rgb(68,68,68);
+ }
+
+ 
